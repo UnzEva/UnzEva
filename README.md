@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/egniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egniya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evgeniia-unzhakova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/evgeniia-unzhakova/" height="30" width="40" /></a>
-<a href="https://discord.gg/Evgeniia#8860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Evgeniia#8860" height="30" width="40" /></a>
+<a href="https://discord.com/channels/819739977394028594/819739977394028596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Evgeniia#8860" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
