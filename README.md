@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm @UnzEva</h1>
+<h3 align="left">Hi 👋, I'm Evgenia</h1>
 
 - 🦄 I enjoy problem solving and applying my skills in the fields of analytics, modeling, and data science.</h3>
 
