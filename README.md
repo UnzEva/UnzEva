@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm @UnzEva</h1>
-<h3 align="center">I enjoy problem solving and applying my skills in the fields of analytics, modeling, and data science.</h3>
+<h3 align="left">Hi 👋, I'm @UnzEva</h1>
+
+- 🦄 I enjoy problem solving and applying my skills in the fields of analytics, modeling, and data science.</h3>
 
 - 🌱 I’m currently learning **TensorFlow**
 
