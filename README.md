@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Evgenia</h1>
+- 👋 Hi, I'm Evgenia
 
 - 🦄 I enjoy problem solving and applying my skills in the fields of analytics, modeling, and data science.</h3>
 
@@ -6,12 +6,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/evgeniia-unzhakova/](https://www.linkedin.com/in/evgeniia-unzhakova/)
 
-- ⚡ Fun fact **I've been watching Harry Potter movies every Christmas holidays for the last 15 years.**
+- ⚡ I've been watching Harry Potter movies every Christmas holidays for the last 15 years.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/egniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egniya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/evgeniia-unzhakova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/evgeniia-unzhakova/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/evgeniia-unzhakova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/evgeniia-unzhakova/" height="30" width="40" /></a>
 <a href="https://discord.gg/Evgeniia#8860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Evgeniia#8860" height="30" width="40" /></a>
 </p>
 
